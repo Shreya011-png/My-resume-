@@ -12,11 +12,6 @@ A vintage-themed personal resume built using only *HTML and CSS, designed to ref
 - 🧾 Sections: About Me, Education, Skills, Projects, Certifications
 - 🌐 Ready to deploy with GitHub Pages
 
----
-
-## 🚀 Live Demo
-
-[https://Shreya011-png.github.io/resume]
 
 ---
 
